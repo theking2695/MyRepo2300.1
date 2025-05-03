@@ -1,1 +1,1 @@
-# MyRepo2300.1
+This file directory is intentionally empty.
